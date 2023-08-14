@@ -88,7 +88,7 @@ class ATM {
     }
 }
 
-public class Main {
+public class ATMinterface {
     public static void main(String[] args) {
         double initialBalance = 1000.0;
         int pin = 1234;
